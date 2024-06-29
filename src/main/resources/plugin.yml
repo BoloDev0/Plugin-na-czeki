@@ -1,0 +1,12 @@
+name: bolodev-czek
+version: '${project.version}'
+main: bolodev.bolodevczek.Main
+api-version: '1.18'
+author: BoloDev
+
+commands:
+  wyplac:
+    aliases:
+      - wyplacczek
+      - czekwyplac
+      - czek
